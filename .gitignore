@@ -4,3 +4,15 @@
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+*.project
+*.classpath
+*.settings
+*.metadata
+target/
+bin/
+>>>>>>> inital
+>>>>>>> gitignore
