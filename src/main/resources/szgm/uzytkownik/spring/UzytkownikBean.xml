@@ -15,7 +15,7 @@
    	</bean>
 
    	<bean id="uzytkownikConverter" 
-         class="szgm.converters.UzytkownikConverter" >
+         class="szgm.uzytkownik.UzytkownikConverter" >
    		<property name="uzytkownikDao" ref="uzytkownikDao" />
    	</bean>
    	

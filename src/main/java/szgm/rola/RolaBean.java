@@ -1,4 +1,4 @@
-package szgm;
+package szgm.rola;
 
 import java.io.Serializable;
 import java.util.List;
